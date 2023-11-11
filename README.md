@@ -85,7 +85,7 @@
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools
  <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,azure,discord,docker,dotnet,linkedin,visualstudio,express,figma,github,md,materialui,mongodb,mysql,tailwind,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,aws,azure,discord,docker,dotnet,linkedin,express,figma,md,materialui,mongodb,mysql,tailwind&perline=14" />
   </a>
 </p>
 
@@ -105,7 +105,13 @@
  
 </p>
      <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> IDEs
- 
+
+
+ <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=visualstudio,idea,vscode&perline=14" />
+  </a>
+</p>
 <p align="center">
   &emsp;
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
