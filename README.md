@@ -176,7 +176,7 @@
 <samp>
 <h2 align="center">About this Account</h2>
  <p align="center">
-  <a href="github.com/1999AZZAR" target="blank"><img align="center" 
+  <a href="https://github.com/The-Manuel-G" target="blank"><img align="center" 
      src="https://komarev.com/ghpvc/?username=1999AZZAR&style=for-the-badge&label=PROFILE+VIEWS" height="25"
      alt="views count" /></a>
   <a href="https://1999azzar.github.io/1999AZZAR/"><img align="center" 
@@ -187,15 +187,15 @@
   <a href="https://www.codefactor.io/repository/github/1999azzar/1999azzar/overview/main"><img align="center"
      src="https://www.codefactor.io/repository/github/1999azzar/1999azzar/badge/main" height="25"
      alt="CodeFactor" /></a>
-  <a href="github.com/1999AZZAR" target="blank"><img align="center" 
+  <a href="https://github.com/The-Manuel-G" target="blank"><img align="center" 
      src="https://github.com/1999AZZAR/1999AZZAR/actions/workflows/pages/pages-build-deployment/badge.svg" height="25"
      alt="page built"/></a>
   </p>
  <p align="center">
-  <a href="github.com/1999AZZAR" target="blank"><img align="center" 
+  <a href="https://github.com/The-Manuel-G" target="blank"><img align="center" 
      src="https://img.shields.io/github/license/1999AZZAR/1999AZZAR?color=purple&style=for-the-badge" height="25"
      alt="lisense" /></a>
-  <a href="github.com/1999AZZAR"><img align="center"
+  <a href="https://github.com/The-Manuel-G"><img align="center"
      src="https://forthebadge.com/images/badges/works-on-my-machine.svg" height="25"
      alt="work on my machine" /></a>
  </p>
@@ -212,7 +212,7 @@
     <details open>
   <summary><h3>Languages</h3></summary>
             <p align="center">
-        <a href="https://github.com/The-Manuel-G/">
+        <a href="https://github.com/The-Manuel-G">
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-Manuel-G&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
           alt="1999AZZAR :: overall Top Langs " /></a>
       </p>
@@ -334,15 +334,5 @@
 </details> 
 
 
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact:...
--->
 
   
