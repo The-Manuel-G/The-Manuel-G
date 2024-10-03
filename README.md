@@ -40,7 +40,7 @@
 
 <div style="text-align: left;">
     <ul>
-        <li>:school: I am a <code>Junior</code> at <a href=""> software development & Front-end web development</a> at <a href="https://itla.edu.do/">Technological Institute Of The Americas</a> and <a href="https://app.aluracursos.com/user/The-Manuel-Dev"> Alura Latan + Oracle</a>.</li>
+        <li>:school: I am a <code>r</code> at <a href=""> software development & Front-end web development</a> at <a href="https://itla.edu.do/">Technological Institute Of The Americas</a> and <a href="https://app.aluracursos.com/user/The-Manuel-Dev"> Alura Latan + Oracle</a>.</li>
         <li>:trophy: 2x <code>ACPC</code> Finalist.</li>
 <li>:technologist: I love using software as a solution for every <code>Problem</code>.</li>
         <li>:computer: I am a competitive programmer at <code>hackathons</code>, <code>competitions</code>, <code>Google Contests</code>.</li>
